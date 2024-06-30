@@ -18,6 +18,7 @@
 
 Ensure you have the following installed on your system:
 
+- Copy/Paste mechanism (Either `xclip` or `xselect`)
 - Python 3.x
 - `pyperclip` library
 - `watchdog` library
